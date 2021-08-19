@@ -1,1 +1,1 @@
-# R-Drop: Regularized Dropout for Neural Networks
+# PointRend: Image Segmentation as Rendering
